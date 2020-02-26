@@ -1,5 +1,4 @@
-# lightfeather-java
-java coding challenge
+Java coding challenge
 This code needs jdk 1.8
 MainClass has the main method, I basically just right click and hit Run As > Java Application
 Make sure you have the Console open
